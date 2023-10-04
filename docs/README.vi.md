@@ -12,8 +12,7 @@
 
 # Tại sao chọn ΣEM ? :monocle_face:
 
-Often, management systems offer full CRM and billing management. But if a link is missing between what is quoted and what must be manufactured. ΣEM offers a link between what the customer expects and a real-time status of the order in the manufacturing workshop. This project using Laravel 9, Livewire and bootstrap 4.6.
-
+Thông thường, các hệ thống quản lý đưa ra tính năng CRM và quản lý hóa đơn. Nhưng mối liên kết bị gián đoạn giữa sản phẩm được báo giá và sản phẩm được sản xuất. ΣEM trang bị một liên kết giữa điều khách hàng mong muốn với trạng thái thật sự của đơn đặt trong xưởng sản xuất. Dự án này sử dụng Laravel 9, Livewire và bootstrap 4.6.
 
 <p align="center">Bất kỳ thảo luận cải tiến nào đều hữu ích. :hugs:</p>
 
