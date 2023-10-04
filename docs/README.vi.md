@@ -15,11 +15,11 @@
 Often, management systems offer full CRM and billing management. But if a link is missing between what is quoted and what must be manufactured. ΣEM offers a link between what the customer expects and a real-time status of the order in the manufacturing workshop. This project using Laravel 9, Livewire and bootstrap 4.6.
 
 
-<p align="center">Any improvement discussion would be helpful. :hugs:</p>
+<p align="center">Bất kỳ thảo luận cải tiến nào đều hữu ích. :hugs:</p>
 
 # Demo :eyes:
 
-[Trang demo](http://demo.wem-project.org) 
+[URL demo: http://demo.wem-project.org](http://demo.wem-project.org) 
 
 Tên đăng nhập : contact@wem-project.org
 
@@ -38,8 +38,7 @@ Dùng để vận hành hệ thống, theo chỉ dẫn này:  [wiki page (cài �
 Dashboard
 ![image](https://github.com/SMEWebify/WebErpMesv2/assets/75578469/07840f20-081d-47d3-b892-14f86b5ecc44)
 
-
-Quote & Order management with task
+Quản lý Báo giá và Đơn đặt bằng tác vụ
 ![image](https://user-images.githubusercontent.com/75578469/164035570-33da9040-7df4-4551-bb69-7ec88e80673b.png)
 ![image](https://user-images.githubusercontent.com/75578469/164035711-504ac598-9385-486b-98f0-87a6a0a3b24a.png)
 ![image](https://user-images.githubusercontent.com/75578469/177055327-68b3ba66-163d-4838-9ced-e1c6944ecbd1.png)
