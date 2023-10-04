@@ -26,13 +26,13 @@ Tên đăng nhập : contact@wem-project.org
 Mật khẩu : password
 
 # Cài đặt :construction_worker:
-for test or help to develop follow this link : [wiki page (install to dev)](https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-dev))
+Dùng để kiểm thử hoặc tham gia phát triển sản phẩm, theo chỉ dẫn này: [wiki (cài đặt để phát triển)](https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-dev))
 
-for run to production, follow this link :  [wiki page (install to run)](https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-production))
+Dùng để vận hành hệ thống, theo chỉ dẫn này:  [wiki page (cài đặt để sử dụng)](https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-production))
 
 -----------------
 
-:building_construction: Tính năng của dự án, đọc tại đây: [wiki page](https://github.com/SMEWebify/WebErpMesv2/wiki/Features)
+:building_construction: Tính năng của sản phẩm, xem chi tiết: [wiki page](https://github.com/SMEWebify/WebErpMesv2/wiki/Features)
   
 -----------------
 Dashboard
