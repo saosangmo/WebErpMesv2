@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/SMEWebify/WebErpMesv2/blob/WEM-2.0/README.md">English</a> •
-  <a href="https://github.com/SMEWebify/WebErpMesv2/blob/WEM-2.0/docs/README.fr.md">Français</a>
+  <a href="https://github.com/SMEWebify/WebErpMesv2/blob/WEM-2.0/docs/README.fr.md">Français</a> •
+   <a href="https://github.com/SMEWebify/WebErpMesv2/blob/WEM-2.0/docs/README.vi.md">Tiếng Việt</a>
 </p>
 
 
