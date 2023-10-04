@@ -25,9 +25,9 @@ Often, management systems offer full CRM and billing management. But if a link i
 
 login : contact@wem-project.org 
 
-Password : password
+Mật khẩu : password
 
-# Instal :construction_worker:
+# Cài đặt :construction_worker:
 for test or help to develop follow this link : [wiki page (install to dev)](https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-dev))
 
 for run to production, follow this link :  [wiki page (install to run)](https://github.com/SMEWebify/WebErpMesv2/wiki/Installation-Steps-(for-production))
